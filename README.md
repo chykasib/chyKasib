@@ -10,18 +10,18 @@
 
 ---
 
-🚀 Featured Project
+### 🚀 Featured Project
 
 <div align="center">
   
-  🌐 HelloTalk - Next-Gen Learning Platform
+  **🌐 HelloTalk - Next-Gen Learning Platform**  
   [![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)](https://hello-talk-client.vercel.app/)
   [![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
   [![Contributors](https://img.shields.io/badge/Contributors-3-success?style=for-the-badge)](https://github.com/yourorg/hellotalk/graphs/contributors)
   
 </div>
 
-Key Features:
+**Key Features:**
 - Real-time chat with WebSockets
 - Interactive learning modules
 - Progress tracking dashboard
@@ -29,7 +29,7 @@ Key Features:
 
 ---
 
-🛠 Tech Radar
+### 🛠 Tech Radar
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,mongodb,tailwind,firebase,figma,git&perline=5" alt="tech stack" />
@@ -37,7 +37,7 @@ Key Features:
 
 ---
 
-📊 Development Analytics
+### 📊 Development Analytics
 
 <div align="center">
 
@@ -50,7 +50,7 @@ Key Features:
 
 ---
 
-🏆 Achievements
+### 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chykasib&theme=onedark&no-frame=true&row=2&column=4" alt="trophies" />
@@ -58,7 +58,7 @@ Key Features:
 
 ---
 
-📬 Let's Collaborate!
+### 📬 Let's Collaborate!
 
 <div align="center">
   
@@ -70,7 +70,7 @@ Key Features:
 
 ---
 
-💡 Coding Philosophy
+### 💡 Coding Philosophy
 
 > "**Clean code** is not just about _working software_,  
 > it's about **maintainable art** that stands the test of time."  
@@ -78,13 +78,13 @@ Key Features:
 
 ---
 
-🎮 Developer DNA
+### 🎮 Developer DNA
 
-javascript
+```javascript
 const kasib = {
   code: ["JavaScript", "TypeScript", "Python"],
   tools: ["React", "Next.js", "Node", "MongoDB"],
   architecture: ["microservices", "SPA", "serverless"],
   hobbies: ["Gaming", "Tech Blogs", "Open Source"],
-  Challenge: "Master Web3 Development in 2024"
+  challenge: "Master Web3 Development in 2024"
 };
