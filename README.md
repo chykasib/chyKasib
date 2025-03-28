@@ -1,34 +1,79 @@
-![logo](https://github.com/chykasib/chyKasib/blob/main/Blue%20And%20Gray%20Geometric%20Technology%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Kasib Mohammad Chowdhury</h1>
-<h3 align="center">Building Scalable and User-Friendly Web Applications</h3>
-<img aling="right" alt="coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chykasib&label=Profile%20views&color=0e75b6&style=flat" alt="chykasib" /> </p>
-
-- 🔭 I’m currently working on a learning platform with my team members [HelloTalk](https://hello-talk-client.vercel.app/)
-
-- 🌱 I’m currently learning **Node-Mongo Crash Course**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kasib-mohammad-chowdhury-b4b2b5244/](https://www.linkedin.com/in/kasib-mohammad-chowdhury-b4b2b5244/)
-
-- 💬 Ask me about **React.js, Next.js**
-
-- 📫 How to reach me **kasib.md.chy@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YohfQ056klbdf7RmyJHT2zs8_sIqwshG/view?usp=share_link](https://drive.google.com/file/d/1YohfQ056klbdf7RmyJHT2zs8_sIqwshG/view?usp=share_link)
-
-- ⚡ Fun fact **I'm funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kasib-mohammad-chowdhury-b4b2b5244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasib mohammad chowdhury" height="30" width="40" /></a>
-<a href="https://www.facebook.com/chowdhury.kasib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kasib mohammad chowdhury" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/chykasib/chyKasib/blob/main/Blue%20And%20Gray%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="header" width="100%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">👋 Hi, I'm Kasib Mohammad Chowdhury</h1>
+<h3 align="center">🚀 Full Stack Developer | Building Scalable Web Applications</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chykasib&show_icons=true&locale=en&layout=compact" alt="chykasib" /></p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=38A3A5&center=true&vCenter=true&width=435&lines=React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Open+Source+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chykasib&show_icons=true&locale=en" alt="chykasib" /></p>
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=chykasib&color=blueviolet)](https://github.com/chykasib)
+  [![GitHub Followers](https://img.shields.io/github/followers/chykasib?label=Follow&style=social)](https://github.com/chykasib)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kasib-mohammad-chowdhury-b4b2b5244/)
+  
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chykasib&" alt="chykasib" /></p>
+---
+
+### 🔥 Current Project
+**HelloTalk - Language Learning Platform**  
+🌐 [Live Demo](https://hello-talk-client.vercel.app/)  
+📚 Collaborative learning platform with real-time features  
+🛠 Built with: Next.js, TypeScript, Firebase, Tailwind CSS
+
+---
+
+### 🛠 Tech Stack
+
+#### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+#### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chykasib&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chykasib&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chykasib&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 📫 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/kasib-mohammad-chowdhury-b4b2b5244/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kasib.md.chy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/chowdhury.kasib/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> "First, solve the problem. Then, write the code." - John Johnson  
+> ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
