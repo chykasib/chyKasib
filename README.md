@@ -4,87 +4,50 @@
 
 <div align="center">
   
-  ![Profile Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38A3A5&center=true&vCenter=true&width=500&lines=Kasib+Mohammad+Chowdhury;Full+Stack+Developer;Tech+Enthusiast;Problem+Solver)
+  <!-- Enhanced Typing Animation with Icons -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=38A3A5&center=true&vCenter=true&width=600&multiline=true&lines=👋+Hey+there!+I'm+Kasib;💻+Full+Stack+Developer;🚀+Tech+Enthusiast;🔧+Problem+Solver;✨+Turning+ideas+into+reality" alt="Typing Animation" />
   
+  <!-- Status Badge -->
+  ![Open to Opportunities](https://img.shields.io/badge/🔍_Open_to_Opportunities-38A3A5?style=flat-square&logo=linkedin)
+  ![Available for Freelance](https://img.shields.io/badge/💼_Available_for_Freelance-2E8B57?style=flat-square)
+
 </div>
 
 ---
 
-### 🚀 Featured Project
+## 🚀 **Featured Project | HelloTalk**
 
 <div align="center">
   
-  **🌐 HelloTalk - Next-Gen Learning Platform**  
-  [![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)](https://hello-talk-client.vercel.app/)
-  [![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
-  [![Contributors](https://img.shields.io/badge/Contributors-3-success?style=for-the-badge)](https://github.com/yourorg/hellotalk/graphs/contributors)
+  ### 🌐 **Next-Gen Learning Platform**
   
-</div>
-
-**Key Features:**
-- Real-time chat with WebSockets
-- Interactive learning modules
-- Progress tracking dashboard
-- Social learning community
-
----
-
-### 🛠 Tech Radar
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,mongodb,tailwind,firebase,figma,git&perline=5" alt="tech stack" />
-</p>
-
----
-
-### 📊 Development Analytics
-
-<div align="center">
-
-| ![Kasib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chykasib&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chykasib&layout=compact&theme=radical&hide_border=true) |
-| ------------- | ------------- |
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=chykasib&theme=react-dark&hide_border=true&area=true)
+  <div align="center">
+    <a href="https://hello-talk-client.vercel.app/">
+      <img src="https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+    </a>
+    <a href="https://github.com/yourorg/hellotalk">
+      <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+    </a>
+  </div>
 
 </div>
 
----
+**⚡ Tech Stack:**  
+`React 18` `TypeScript` `Node.js` `MongoDB` `WebSocket` `Tailwind CSS`
 
-### 🏆 Achievements
+**🎯 Key Features:**
+- ⚡ **Real-time chat** with WebSocket connectivity
+- 📚 **Interactive learning modules** with progress tracking
+- 📊 **Analytics dashboard** for performance insights
+- 👥 **Community features** for collaborative learning
+- 🔔 **Notification system** for updates and reminders
+- 🌙 **Dark mode** for comfortable learning
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chykasib&theme=onedark&no-frame=true&row=2&column=4" alt="trophies" />
-</p>
-
----
-
-### 📬 Let's Collaborate!
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kasib-mohammad-chowdhury-b4b2b5244/)
-  [![Email](https://img.shields.io/badge/-Send%20Email-red?style=for-the-badge&logo=gmail)](mailto:kasib.md.chy@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/-View%20Portfolio-green?style=for-the-badge)](https://yourportfolio.com)
-  
-</div>
-
----
-
-### 💡 Coding Philosophy
-
-> "**Clean code** is not just about _working software_,  
-> it's about **maintainable art** that stands the test of time."  
-> - _Kasib's Development Manifesto_
-
----
-
-### 🎮 Developer DNA
-
-```javascript
-const kasib = {
-  code: ["JavaScript", "TypeScript", "Python"],
-  tools: ["React", "Next.js", "Node", "MongoDB"],
-  architecture: ["microservices", "SPA", "serverless"],
-  hobbies: ["Gaming", "Tech Blogs", "Open Source"],
-  challenge: "Master Web3 Development in 2024"
-};
+**🏗️ Architecture:**
+```mermaid
+graph LR
+    A[React Frontend] --> B[Node.js API]
+    B --> C[MongoDB Database]
+    B --> D[Redis Cache]
+    A --> E[WebSocket Server]
+    E --> F[Real-time Updates]
