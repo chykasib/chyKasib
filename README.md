@@ -50,5 +50,3 @@
 - 👥 **Community features** for collaborative learning
 - 🔔 **Notification system** for updates and reminders
 - 🌙 **Dark mode** for comfortable learning
-
-**🏗️ Architecture Flow:**
